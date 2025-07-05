@@ -41,7 +41,7 @@ pip install streamlit
 ### 1. Clone or Download the Repository
 
 ```bash
-git clone [https://github.com/yourusername/bulk-email-streamlit.git](https://github.com/Chethan2121/bulk-email-sender.git)
+git clone https://github.com/Chethan2121/bulk-email-sender.git
 cd bulk-email-streamlit
 ```
 
